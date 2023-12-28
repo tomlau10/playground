@@ -14,3 +14,6 @@ Personal playground for storing projects created during my time as a student lea
 
 - **2014-08-minesweeper**
   - Created during a university course focused on system programming, where I learned advanced console input/output techniques. The game is played entirely using keyboard inputs.
+
+- **2014-08-snake-remastered**
+  - A remastered version of the snake game mentioned earlier, ported to the C language. I modified the UI and used different console text colors to represent various items in the game.
