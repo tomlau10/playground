@@ -1,0 +1,317 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SpaceWarAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 370}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 337}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SpaceWarAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 780}}";
+			sepNavSelRange = "{583, 0}";
+			sepNavVisRange = "{0, 920}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpaceWar */ = {
+		activeExec = 0;
+		executables = (
+			FF28C38613765FC300E3341C /* SpaceWar */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SpaceWarViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 645}}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRange = "{0, 1232}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SpaceWarViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 2704}}";
+			sepNavSelRange = "{4630, 0}";
+			sepNavVisRange = "{4054, 988}";
+			sepNavWindowFrame = "{{153, 0}, {946, 746}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FF28C38613765FC300E3341C /* SpaceWar */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpaceWar */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SpaceWar */,
+		);
+		codeSenseManager = FF28C39C13765FCB00E3341C /* Code sense */;
+		executables = (
+			FF28C38613765FC300E3341C /* SpaceWar */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1348,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329385525;
+			PBXWorkspaceStateSaveDate = 329385525;
+		};
+		perUserProjectItems = {
+			FF25400F13A204F5001F4546 /* PBXBookmark */ = FF25400F13A204F5001F4546 /* PBXBookmark */;
+			FF25401213A204F5001F4546 /* PBXTextBookmark */ = FF25401213A204F5001F4546 /* PBXTextBookmark */;
+			FF369EDA13893463007E53E8 /* PlistBookmark */ = FF369EDA13893463007E53E8 /* PlistBookmark */;
+			FF8A9DD31376D0B700253FA3 /* PBXTextBookmark */ = FF8A9DD31376D0B700253FA3 /* PBXTextBookmark */;
+			FFBF7DEE138C18A500CE8A09 /* PBXBookmark */ = FFBF7DEE138C18A500CE8A09 /* PBXBookmark */;
+			FFBF7DEF138C18A500CE8A09 /* PBXBookmark */ = FFBF7DEF138C18A500CE8A09 /* PBXBookmark */;
+			FFBF7DF0138C18A500CE8A09 /* PBXBookmark */ = FFBF7DF0138C18A500CE8A09 /* PBXBookmark */;
+			FFBF7DF1138C18A500CE8A09 /* PBXBookmark */ = FFBF7DF1138C18A500CE8A09 /* PBXBookmark */;
+			FFBF7DF2138C18A500CE8A09 /* PBXBookmark */ = FFBF7DF2138C18A500CE8A09 /* PBXBookmark */;
+			FFBF7DF3138C18A500CE8A09 /* PBXBookmark */ = FFBF7DF3138C18A500CE8A09 /* PBXBookmark */;
+			FFEB675F13A2070E009EDCB9 /* PBXTextBookmark */ = FFEB675F13A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676013A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676013A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676113A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676113A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676213A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676213A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676313A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676313A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676413A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676413A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676513A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676513A2070E009EDCB9 /* PBXTextBookmark */;
+			FFEB676613A2070E009EDCB9 /* PBXTextBookmark */ = FFEB676613A2070E009EDCB9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FF28C39B13765FCB00E3341C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FF25400F13A204F5001F4546 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FF8A9D1C1376825300253FA3 /* ship.png */;
+	};
+	FF25401213A204F5001F4546 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8A9D2513768B4B00253FA3 /* Config.h */;
+		name = "Config.h: 4";
+		rLen = 0;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 119;
+		vrLoc = 0;
+	};
+	FF28C38613765FC300E3341C /* SpaceWar */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceWar;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FF28C39B13765FCB00E3341C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FF28C39C13765FCB00E3341C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FF369EDA13893463007E53E8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpaceWar-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/csmandel/Dropbox/Sync/iphone/workshop/SpaceWar/SpaceWar-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	FF8A9D221376877E00253FA3 /* UIScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 645}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 190}";
+			sepNavWindowFrame = "{{86, 24}, {763, 717}}";
+		};
+	};
+	FF8A9D231376877E00253FA3 /* UIScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 645}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 462}";
+		};
+	};
+	FF8A9D2513768B4B00253FA3 /* Config.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 651}}";
+			sepNavSelRange = "{56, 0}";
+			sepNavVisRange = "{0, 119}";
+		};
+	};
+	FF8A9D2613768D9700253FA3 /* UIActor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 645}}";
+			sepNavSelRange = "{393, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	FF8A9D2713768D9700253FA3 /* UIActor.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1526, 645}}";
+			sepNavSelRange = "{117, 0}";
+			sepNavVisRange = "{0, 124}";
+		};
+	};
+	FF8A9DD31376D0B700253FA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SpaceWarAppDelegate.h */;
+		name = "SpaceWarAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	FFBF7DEE138C18A500CE8A09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FFA9773413784FC6004B679F /* play.png */;
+	};
+	FFBF7DEF138C18A500CE8A09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FFA9773213784FB7004B679F /* pause.png */;
+	};
+	FFBF7DF0138C18A500CE8A09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FFA9772F13784E50004B679F /* bullet.png */;
+	};
+	FFBF7DF1138C18A500CE8A09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FF8A9D181376825300253FA3 /* alien1.png */;
+	};
+	FFBF7DF2138C18A500CE8A09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FF8A9D191376825300253FA3 /* alien2.png */;
+	};
+	FFBF7DF3138C18A500CE8A09 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = FF8A9D1A1376825300253FA3 /* alien3.png */;
+	};
+	FFEB675F13A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8A9D221376877E00253FA3 /* UIScene.h */;
+		name = "UIScene.h: 10";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 190;
+		vrLoc = 0;
+	};
+	FFEB676013A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SpaceWarViewController.m */;
+		name = "SpaceWarViewController.m: 187";
+		rLen = 0;
+		rLoc = 4630;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 4054;
+	};
+	FFEB676113A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceWarAppDelegate.m */;
+		name = "SpaceWarAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 583;
+		rType = 0;
+		vrLen = 920;
+		vrLoc = 0;
+	};
+	FFEB676213A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SpaceWarViewController.h */;
+		name = "SpaceWarViewController.h: 11";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 0;
+	};
+	FFEB676313A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8A9D2613768D9700253FA3 /* UIActor.h */;
+		name = "UIActor.h: 16";
+		rLen = 0;
+		rLoc = 393;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	FFEB676413A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8A9D2713768D9700253FA3 /* UIActor.m */;
+		name = "UIActor.m: 5";
+		rLen = 0;
+		rLoc = 117;
+		rType = 0;
+		vrLen = 124;
+		vrLoc = 0;
+	};
+	FFEB676513A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8A9D231376877E00253FA3 /* UIScene.m */;
+		name = "UIScene.m: 12";
+		rLen = 0;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 171;
+		vrLoc = 0;
+	};
+	FFEB676613A2070E009EDCB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FF8A9D231376877E00253FA3 /* UIScene.m */;
+		name = "UIScene.m: 14";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+}
