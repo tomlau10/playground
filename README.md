@@ -11,3 +11,6 @@ Personal playground for storing projects created during my time as a student lea
 
 - **2012-06-SpaceWar**
   - An iOS game app created during an iPhone App Workshop.
+
+- **2014-08-minesweeper**
+  - Created during a university course focused on system programming, where I learned advanced console input/output techniques. The game is played entirely using keyboard inputs.
