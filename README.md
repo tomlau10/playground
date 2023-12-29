@@ -17,3 +17,6 @@ Personal playground for storing projects created during my time as a student lea
 
 - **2014-08-snake-remastered**
   - A remastered version of the snake game mentioned earlier, ported to the C language. I modified the UI and used different console text colors to represent various items in the game.
+
+- **2014-10-picross-solver**
+  - Originally written in Lisp for a university course assignment, this picross solver was later optimized in C for improved performance. It is capable of solving medium-sized puzzles in just a few milliseconds. The largest puzzle I tested was 90x85 (I forgot the puzzle source...), which only took 10ms to solve!
